@@ -1,14 +1,14 @@
-# ryan-dst
+# lyan-dst
 Scripts of "Learn from Your Ancestor: Boosting Few-Shot Dialogue State Tracking with Pseudo Labels from Previous Models."
 
 ## Installation
 This repository is available in Ubuntu 20.04 LTS, and it is not tested in other OS.
 ```
-git clone https://github.com/squiduu/ryan-dst.git
-cd ryan-dst
+git clone https://github.com/squiduu/lyan-dst.git
+cd lyan-dst
 
-conda create -n ryandst python=3.7.10
-conda activate ryandst
+conda create -n lyandst python=3.7.10
+conda activate lyandst
 
 pip install -r requirements.txt
 ```
